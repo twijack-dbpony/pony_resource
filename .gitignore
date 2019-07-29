@@ -1,0 +1,45 @@
+*.class
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+/.idea
+/.vscode
+/.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+.env
+/app/Providers/TelescopeServiceProvider.php
+/config/telescope.php
+/public/vendor/
+/public/images/thumb/
+/public/images/66/
+/public/Background Pictures
+/public/Transcend
+/public/ponyDisplay
+/public/thumb
+/public/slick
+/public/path
+/public/avatar
+/public/rarity
+/public/crowd
+/public/crowd_first.xlsx
+/public/crowd_second.xlsx
+
+
+
