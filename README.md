@@ -1,2 +1,2 @@
 # pony_resource
-一个很基本的blog
+a basic blog project using laravel 5.8 for mlp resources 
